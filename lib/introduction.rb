@@ -1,3 +1,3 @@
-def introduction(josh)
+def introduction
 
 end
